@@ -1,0 +1,63 @@
+body {
+  background-color: #f5fff5;
+  font-family: Arial, verdana;
+  margin: 0;
+  padding: 0;
+}
+.header {
+  background-color: #327cff;
+  color: white;
+  font-size: 50px;
+  padding: 30px;
+  text-align: left;
+}
+.nav {
+  background-color: #f2f2f2;
+  padding: 30px;
+  text-align: center;
+}
+nav a {
+  margin: 0px 15px;
+  text-decoration: none;
+  color: #004080;
+  font-weight: bold;
+}
+.footer {
+  background-color: #f2f2f2;
+  padding: 15px;
+  text-align: center;
+  font-size: 14px;
+}
+a:link {
+  color: MediumSeaGreen;
+  background-color: #f2f2f2;
+  text-decoration: none;
+}
+a:visited {
+  color: #008080;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+   color: #99ffcc;
+   background-color: transparent;
+   text-decoration: underline;
+}
+a:active {
+   color: yellow;
+   background-color: transparent;
+   text-decoration: underline;
+}
+.button {
+   padding: 10px 20px;
+   background-color: #f2f2f2;
+   color: white;
+   border: none;
+   border-radius: 5px;
+   text-decoration: none;
+   font-size: 16px;
+   cursor: pointer;
+}
+.button:hover {
+   background-color: #45a049;
+}
